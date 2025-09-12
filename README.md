@@ -52,8 +52,6 @@ These insighst allows us to indentify and find pattern about the drivers and tea
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Evan de Guzman. I’m an Data professional and passionate about learning aabout data YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-👋 About Me
 
 Hi there! I'm Evan de Guzman, a Data Professional with a passion for learning all things data. I enjoy working with data to extract insights, build meaningful visualizations, and solve real-world problems through data-driven decision making.
 
