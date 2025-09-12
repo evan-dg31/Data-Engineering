@@ -1,2 +1,2 @@
-# databricks_formula1
+# Formula 1
 This project focuses on the design and implementation of a modern Data Lakehouse architecture on Microsoft Azure Databricks that ingests, processes, and analyzes race data to generate actionable insights for Formula 1 racing data. By leveraging Azure Databricks, Azure Data Lake Storage Gen2, Azure Data Factory, and Power BI, the solution enables high-performance data ingestion, scalable processing, centralized storage, and rich analytical reporting capabilities.
