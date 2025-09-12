@@ -22,7 +22,10 @@ The data architecture for this project follows **Medallion Architecture Bronze, 
 
 ### 🚀 Project Requirements
 **Building the Data Warehouse (Data Engineering)**
+
 **Objective**
+
+
 Develop a modern data lakehouse using Azure Data Lake to consolidate race data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
