@@ -24,12 +24,28 @@ The data architecture for this project follows Medallion Architecture **Bronze, 
 ---
 
 ### Project Requirements
-**Building the Data Lakehouse (Data Engineering)**
+**Building the Data Lakehouse**
 
 **Objective**
 
+Develop a scalable and efficient batch data pipeline using Azure Databricks that ingests, cleans, transforms, and aggregates historical Formula 1 race data (e.g., lap times, pit stops, driver standings). The pipeline will support downstream analytics, reporting, and data science use cases such as performance benchmarking, race trend analysis, and predictive modeling.
 
-Develop a modern data lakehouse using Azure Data Lake to consolidate race data, enabling analytical reporting and informed decision-making.
+✅ Key Components:
+
+**Azure Data Factory (ADF)**:
+
+- Automates and schedules data ingestion and ETL workflows
+- Integrates with public Formula 1 datasets
+
+**Azure Databricks**:
+
+- Performs batch data transformations using PySpark or SQL
+- Joins, aggregates, and enriches F1 datasets for downstream use
+
+**Delta Lake**:
+
+- Stores raw and processed data in a medallion architecture (Bronze, Silver, Gold layers)
+- Ensures ACID transactions, schema enforcement, and versioning
 
 #### Specifications
 - **Data Sources:** Import data from source systems (Ergast API) provided as CSV and JSON files
