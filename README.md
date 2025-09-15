@@ -2,7 +2,7 @@
 
 Welcome to the Data Lakehouse and Analytics Project repository! 🚀
 
-This project focuses on the design and implementation of a modern Data Lakehouse architecture and analytics solution, from building a data lakehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics showcasing hands-on experience with:
+This project focuses on the design and implementation of a modern Data Lakehouse architecture and analytics solution, from building a data lakehouse to generating actionable insights. Designed as a portfolio project, it highlights best practices in data engineering and analytics showcasing hands-on experience with:
 
 - Building and managing a Data Lakehouse
 - Data ingestion, transformation, and modeling
