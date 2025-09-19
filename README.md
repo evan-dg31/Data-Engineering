@@ -42,7 +42,7 @@ Develop a scalable and efficient batch data pipeline using Azure Databricks that
 - Performs batch data transformations using PySpark or SQL
 - Joins, aggregates, and enriches F1 datasets for downstream use
 
-**Delta Lake**:
+**Azure Data Lake (Delta Lake)**:
 
 - Stores raw and processed data in a medallion architecture (Bronze, Silver, Gold layers)
 - Ensures ACID transactions, schema enforcement, and versioning
